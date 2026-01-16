@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm sai</h1>
+<h1 align="center">I'm sai</h1>
 <div align = "center">
   <img src = "https://media.tenor.com/PLIr_VkF6ywAAAAM/ghostedvpn-hacker-cat.gif" />
 </div>
-<h3 align="center">respect my authoritah</h3>
 
-- 🌱 I’m currently learning: OpenCV and Kotlin
+---
+
+- 🌱 I’m currently learning: Scikit-Learn
 - 💬 Ask me about: how much i love feminism and matcha
-- 🔭 I’m currently working on: **Project Taho** and more
+- 🔭 I’m currently working on: 🤫
 - ⚡ Fun fact: spiders are vegan (probably)
 
 ---
