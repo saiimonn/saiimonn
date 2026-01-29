@@ -5,8 +5,7 @@
 
 ---
 
-- 🌱 I’m currently learning: Scikit-Learn
-- 💬 Ask me about: how much i love feminism and matcha
+- 🌱 I’m currently learning: Scikit-Learn and Flutter
 - 🔭 I’m currently working on: 🤫
 - ⚡ Fun fact: spiders are vegan (probably)
 
