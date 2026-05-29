@@ -1,6 +1,6 @@
 <h1 align="center">I'm sai</h1>
 <div align = "center">
-  <img src = "https://images.hive.blog/0x0/https://api.inovocom.co.za/assets/gifs/200.gif" />
+  <img src = "https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
   <h3>Web Development - Mobile Development - Machine Learning</h1>
 </div>
 
