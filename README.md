@@ -1,7 +1,6 @@
 <h1 align="center">I'm sai</h1>
 <div align = "center">
-  <img src = "https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
-  <h3>Web Development - Mobile Development - Machine Learning</h1>
+  <h3>Web Development • Mobile Development • Machine Learning</h1>
 </div>
 
 <br>
